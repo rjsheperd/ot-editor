@@ -1,0 +1,20 @@
+# Developer Tool Config Files
+.cpcache
+.DS_Store
+.nrepl-port
+.rebel_readline_history
+.vscode
+.clj-kondo/*
+!.clj-kondo/config.edn
+
+# Build Directories and Files
+/.key
+/logs
+/target
+/out
+/resources/public/cljs
+.lsp/
+
+# Configuration files
+/config.edn
+announcement.txt
